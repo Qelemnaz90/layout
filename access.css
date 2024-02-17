@@ -1,13 +1,32 @@
 header {
     background-color: grey;
+    text-align: center;
 }
 
-main {
-    text-align: right;
+.div {
+    text-align: center;
+
     background-color: azure;}
 
-button {
-    margin-right: 300px;
-    margin-left: px;
+    .div p {
+    text-transform: lowercase;
+    letter-spacing: 6px;
+    font-style:unset;
+}
+
+.b {
+    background-color: fuchsia;
+    border-radius: 8px;
+    width: 250px;
 
 }
+
+button {
+background-color: fuchsia;
+box-shadow: 300px;
+width: 250px;
+border-radius: 8px;
+}
+ footer {
+    background-color: grey;
+     }

@@ -1,0 +1,31 @@
+.logo {
+
+    background-color: gray;}
+
+.logo h1 {
+    text-align: center; 
+    
+}
+
+.logo img {
+    padding-left: 400px;
+    padding-top: 30px;
+    }
+button {
+    width: 250px;
+    border-radius: 8px;
+    background-color: fuchsia;
+    margin-left: 600px;}
+
+p {
+margin-left: 400px;
+margin-right: 400px;
+word-spacing: 20px;
+height: px;
+}
+
+
+footer {
+    background-color: gray;
+}
+

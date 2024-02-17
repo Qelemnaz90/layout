@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+    background-color: gray;}
+
+    .disp h2 {
+    text-align: center;
+    padding: 30px;}
+
+    .disp p {
+        text-align: center;
+        padding-left: 300px;
+        padding-right: 300px;}
+
+    .disp h3 {
+        padding-left: 330px;}
+
+    .sp p {
+        border-radius: 30%;
+        border-color: green;
+    }
+
+    .main h2 {
+
+        padding-left: 330px;
+        padding-right: 330px;
+    }
+    .main p {
+        text-align: center;
+        padding-left: 300px;
+        padding-right: 300px; }
+
+        button {
+            
+            width: 250px;
+            border-radius: 8px;
+            background-color: fuchsia;
+            margin-left: 600px;}
+        
+            footer {
+                background-color: gray;
+            }
